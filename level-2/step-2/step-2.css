@@ -8,7 +8,7 @@
 /* Step-2 Add a width, height and display property to make these containers look like the design. */
 .item {
    /*width*/
-    width: 40%;
+    width: 60%;
     /*height*/
     height: 100px;
     /*display*/
@@ -24,7 +24,7 @@
     /*height*/
     height: 100px;
     /*margin*/
-    margin: 10px;
+    margin: 20px;
     background: #DED6D3;
 }
 
@@ -35,7 +35,7 @@
     /*height*/
     height: 200px;
     /*margin*/
-    margin: 10px;
+    margin: 20px;
     background: #DED6D3;
 }
 
