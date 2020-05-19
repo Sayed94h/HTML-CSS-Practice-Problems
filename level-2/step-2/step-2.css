@@ -20,7 +20,7 @@
 /* Step-2 Add a width, height, and margin property to make these containers look like the design. Remember margin: auto is helpful when trying to center a container. */
 .full-width-item {
     /*width*/
-    width: 100%;
+    width: 94%;
     /*height*/
     height: 100px;
     /*margin*/
@@ -31,7 +31,7 @@
 /* Step-2 Add a width, height, and margin property to make these containers look like the design. Remember margin: auto is helpful when trying to center a container. */
 .large-item {
     /*width*/
-    width: 100%;
+    width: 94%;
     /*height*/
     height: 200px;
     /*margin*/
